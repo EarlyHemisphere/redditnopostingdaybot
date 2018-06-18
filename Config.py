@@ -4,6 +4,6 @@ PASSWORD = ""
 CLIENT_ID = ""
 CLIENT_SECRET = ""
 REFRESH_TOKEN = ""
-START_DATE = # Can use time.time()
+START_DATE = # Ex. 1529326645.0
 MESSAGE = ""
 SIGNATURE = ""
