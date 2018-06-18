@@ -1,6 +1,7 @@
 #!/usr/bin/env python
+"""Obtained from http://praw.readthedocs.io/en/latest/tutorials/refresh_token.html
 
-"""This example demonstrates the flow for retrieving a refresh token.
+This example demonstrates the flow for retrieving a refresh token.
 
 In order for this example to work your application's redirect URI must be set
 to http://localhost:8080.
