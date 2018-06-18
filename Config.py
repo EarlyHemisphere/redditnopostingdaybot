@@ -1,0 +1,9 @@
+USER_AGENT = ""
+USERNAME = ""
+PASSWORD = ""
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+REFRESH_TOKEN = ""
+START_DATE = # Can use time.time()
+MESSAGE = ""
+SIGNATURE = ""
